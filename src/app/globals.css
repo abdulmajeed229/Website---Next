@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.aboutBack{
+
+    background-image: url('../images/back.jpg');
+}
+.createAccontImage{
+
+    background-image: url('../images/back.jpg');
+}
+.HomeContentCenter{
+
+    background-image: url('../images/back.jpg');
+}
+.ContactImage{
+    background-image: url('../images/back.jpg');
+}
+
+.hello{
+    background-image: url('../images/back.jpg');
+}
+.loginImg{
+    background-image: url('../images/back.jpg');
+}
